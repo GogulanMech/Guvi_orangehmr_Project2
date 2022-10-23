@@ -1,0 +1,18 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 106.0.5249
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+[32mINFO    [0m selenium:webdriver_listener.py:18 Navigating to https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m selenium:webdriver_listener.py:21 https://opensource-demo.orangehrmlive.com/ is opened
+[32mINFO    [0m selenium:webdriver_listener.py:24 Searching for element by xpath //input[@placeholder='Username']
+[32mINFO    [0m selenium:webdriver_listener.py:27 Element by xpath //input[@placeholder='Username'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:42 None value is changing
+[32mINFO    [0m selenium:webdriver_listener.py:45 None was changed
+[32mINFO    [0m selenium:webdriver_listener.py:24 Searching for element by xpath //input[@placeholder='Password']
+[32mINFO    [0m selenium:webdriver_listener.py:27 Element by xpath //input[@placeholder='Password'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:42 None value is changing
+[32mINFO    [0m selenium:webdriver_listener.py:45 None was changed
+[32mINFO    [0m selenium:webdriver_listener.py:24 Searching for element by xpath //button[normalize-space()='Login']
+[32mINFO    [0m selenium:webdriver_listener.py:27 Element by xpath //button[normalize-space()='Login'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:31 Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+[32mINFO    [0m selenium:webdriver_listener.py:48 Driver is quitting
+[32mINFO    [0m selenium:webdriver_listener.py:51 Driver quited

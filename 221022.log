@@ -1,0 +1,111 @@
+2022-10-22 13:36:57,139: INFO: ====== WebDriver manager ======
+2022-10-22 13:37:29,719: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 13:37:33,272: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-22 13:37:38,325: INFO: Driver has been saved in cache [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-10-22 13:38:47,212: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 13:38:56,491: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 13:38:56,491: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 13:38:59,612: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 13:38:59,655: INFO: None value is changing
+2022-10-22 13:39:01,959: INFO: None was changed
+2022-10-22 13:39:01,959: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 13:39:01,975: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 13:39:01,982: INFO: None value is changing
+2022-10-22 13:39:17,858: INFO: Driver is quitting
+2022-10-22 13:39:22,095: INFO: Driver quited
+2022-10-22 13:42:14,399: INFO: ====== WebDriver manager ======
+2022-10-22 13:42:34,313: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 13:42:37,357: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 13:42:57,464: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 13:43:01,722: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 13:43:01,723: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 13:43:05,090: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 13:43:05,187: INFO: None value is changing
+2022-10-22 13:43:05,473: INFO: None was changed
+2022-10-22 13:43:05,474: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 13:43:05,492: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 13:43:05,498: INFO: None value is changing
+2022-10-22 13:43:14,569: INFO: Driver is quitting
+2022-10-22 13:43:18,524: INFO: Driver quited
+2022-10-22 13:45:29,103: INFO: ====== WebDriver manager ======
+2022-10-22 13:45:52,619: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 13:45:55,540: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 13:46:10,733: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 13:46:13,676: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 13:46:13,677: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 13:46:16,229: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 13:46:16,253: INFO: None value is changing
+2022-10-22 13:46:16,437: INFO: None was changed
+2022-10-22 13:46:16,438: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 13:46:16,455: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 13:46:16,462: INFO: None value is changing
+2022-10-22 13:46:22,561: INFO: Driver is quitting
+2022-10-22 13:46:25,419: INFO: Driver quited
+2022-10-22 13:48:21,899: INFO: ====== WebDriver manager ======
+2022-10-22 13:48:25,236: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 13:48:27,978: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 13:49:05,730: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 13:49:11,343: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 13:49:11,343: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 13:49:25,204: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 13:49:25,230: INFO: None value is changing
+2022-10-22 13:49:25,691: INFO: None was changed
+2022-10-22 13:49:25,691: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 13:49:25,712: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 13:49:25,719: INFO: None value is changing
+2022-10-22 13:49:33,926: INFO: Driver is quitting
+2022-10-22 13:49:37,942: INFO: Driver quited
+2022-10-22 14:00:23,576: INFO: ====== WebDriver manager ======
+2022-10-22 14:00:52,513: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 14:00:55,031: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 14:01:20,072: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 14:01:23,562: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 14:01:23,563: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 14:01:27,886: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 14:01:27,940: INFO: None value is changing
+2022-10-22 14:01:28,180: INFO: None was changed
+2022-10-22 14:01:28,181: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 14:01:28,193: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 14:01:28,198: INFO: None value is changing
+2022-10-22 14:01:28,619: INFO: None was changed
+2022-10-22 14:01:28,620: INFO: Searching for element by xpath //button[normalize-space()='Login']
+2022-10-22 14:01:28,634: INFO: Element by xpath //button[normalize-space()='Login'] was found
+2022-10-22 14:01:28,647: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-10-22 14:01:33,986: INFO: Driver is quitting
+2022-10-22 14:01:41,004: INFO: Driver quited
+2022-10-22 14:57:17,361: INFO: ====== WebDriver manager ======
+2022-10-22 14:58:15,406: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 14:58:18,775: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 14:58:44,456: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 14:58:47,511: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 14:58:47,511: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 14:58:50,305: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 14:58:50,379: INFO: None value is changing
+2022-10-22 14:58:51,215: INFO: None was changed
+2022-10-22 14:58:51,215: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 14:58:51,234: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 14:58:51,240: INFO: None value is changing
+2022-10-22 14:58:51,660: INFO: None was changed
+2022-10-22 14:58:51,660: INFO: Searching for element by xpath //button[normalize-space()='Login']
+2022-10-22 14:58:51,675: INFO: Element by xpath //button[normalize-space()='Login'] was found
+2022-10-22 14:58:51,689: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-10-22 14:58:59,814: INFO: Driver is quitting
+2022-10-22 14:59:03,233: INFO: Driver quited
+2022-10-22 16:38:35,215: INFO: ====== WebDriver manager ======
+2022-10-22 16:38:54,416: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-22 16:38:57,317: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-22 16:39:16,066: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-10-22 16:39:19,656: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-10-22 16:39:19,656: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-10-22 16:39:21,062: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-10-22 16:39:21,126: INFO: None value is changing
+2022-10-22 16:39:21,324: INFO: None was changed
+2022-10-22 16:39:21,324: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-10-22 16:39:21,336: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-10-22 16:39:21,343: INFO: None value is changing
+2022-10-22 16:39:21,659: INFO: None was changed
+2022-10-22 16:39:21,660: INFO: Searching for element by xpath //button[normalize-space()='Login']
+2022-10-22 16:39:21,677: INFO: Element by xpath //button[normalize-space()='Login'] was found
+2022-10-22 16:39:21,742: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-10-22 16:39:36,546: INFO: Driver is quitting
+2022-10-22 16:39:39,834: INFO: Driver quited
