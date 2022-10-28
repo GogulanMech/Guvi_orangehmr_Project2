@@ -1,3 +1,4 @@
+from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.events import AbstractEventListener
 import logging
@@ -32,7 +33,7 @@ class WebDriverListener(AbstractEventListener):
         elif by == 'id':
             element = driver.find_element(By.ID, value)
             driver.execute_script("arguments[0].style.border='3px solid blue'", element)
-        elif by == 'class name' or 'class_name':
+        elif by == 'class name' or by == 'class_name':
             element = driver.find_element(By.CLASS_NAME, value)
             driver.execute_script("arguments[0].style.border='3px solid blue'", element)
         elif by == 'css selector':
@@ -58,10 +59,17 @@ class WebDriverListener(AbstractEventListener):
             self.logger.info(f"Clicking on {element.get_attribute('text')}")
 
     def after_click(self, element, driver):
-        if element.get_attribute("text") is None:
-            self.logger.info(f"{element.get_attribute('class')} was clicked")
-        else:
-            self.logger.info(f"{element.get_attribute('text')} was clicked")
+        pass
+        # try:
+        #     if element.get_attribute("text") is None:
+        #         self.logger.info(f"{element.get_attribute('class')} was clicked")
+        #     else:
+        #         self.logger.info(f"{element.get_attribute('text')} was clicked")
+        # except StaleElementReferenceException:
+        #     if element.get_attribute("text") is None:
+        #         self.logger.info(f"{element.get_attribute('class')} was clicked")
+        #     else:
+        #         self.logger.info(f"{element.get_attribute('text')} was clicked")
 
     def before_change_value_of(self, element, driver):
         self.logger.info(f"{element.get_attribute('text')} value is changing")

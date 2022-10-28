@@ -5,7 +5,7 @@ class LoginPageLocators:
     username_input = (By.XPATH, "//input[@placeholder='Username']")
     password_input = (By.XPATH, "//input[@placeholder='Password']")
     login_btn = (By.XPATH, "//button")
-    invalid_data_msg = (By.XPATH, "//p[contains(text(),'Invalid credentials')]")
+    invalid_data_msg = (By.XPATH, "//div[@class='oxd-alert-content oxd-alert-content--error']")
 
 
 class AddEmployeeLocators:
@@ -69,3 +69,19 @@ class PimPageLocators:
     search_btn = (By.XPATH, "//button[@type='submit']")
     edit_btn = (By.XPATH, "//button/i[@class ='oxd-icon bi-pencil-fill']")
     delete_btn = (By.XPATH, "//button/i[@class='oxd-icon bi-trash']")
+
+
+class CommonLocator:
+    dropdown_list = (By.XPATH, "//div[@role='listbox']/div/span")
+    validate_txt = (By.XPATH, "//div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']")
+
+
+class Edit_Delete:
+    employee_name_input = (By.XPATH, "//div[1]/div/div[2]/div/div/input[@placeholder='Type for hints...']")
+    select_emp_drp = (By.XPATH, "//span[contains(text(),'Gogulan ')]")
+    search_btn = (By.XPATH, "//button[@type='submit']")
+    edit_btn = (By.XPATH, "//button/i[@class ='oxd-icon bi-pencil-fill']")
+    delete_btn = (By.XPATH, "//button/i[@class='oxd-icon bi-trash']")
+    confirm_delete_btn = (By.XPATH, "//button[normalize-space()='Yes, Delete']")
+
+

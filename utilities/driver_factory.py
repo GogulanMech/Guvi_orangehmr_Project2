@@ -20,7 +20,7 @@ class DriverFactory:
                 WebDriverListener(), config
             )
             return driver
-        elif config["browser"] == "firebox":
+        elif config["browser"] == "firefox":
             options = webdriver.FirefoxOptions()
             if config["headless_mode"] is True:
                 options.headless = True

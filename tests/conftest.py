@@ -4,7 +4,7 @@ import pytest
 from allure_commons.types import AttachmentType
 from utilities.driver_factory import DriverFactory
 
-CONFIG_PATH = "config.json"
+CONFIG_PATH = "D:\\Automation_Program\\phython\\program\\Hybrid_Frame_Work\\Project2\\config.json"
 DEFAULT_WAIT_TIME = 10
 SUPPORTED_BROWSER = ["chrome", "firebox", "edge"]
 DEFAULT_URL = "https://opensource-demo.orangehrmlive.com/"
@@ -37,10 +37,12 @@ def url_setup(config):
 
 @pytest.fixture()
 def setup(request, config):
+
     driver = DriverFactory.get_driver(config)
     driver.implicitly_wait(config["timeout"])
     request.cls.driver = driver
     before_failed = request.session.testsfailed
+
     if config["browser"] == "firefox":
         driver.maximize_window()
     yield
@@ -48,6 +50,7 @@ def setup(request, config):
         allure.attach(driver.get_screenshot_as_png(),
                       name="Test_failed", attachment_type=AttachmentType.PNG)
         driver.quit()
+
 
 
 

@@ -1,0 +1,95 @@
+1666512878631	geckodriver	INFO	Listening on 127.0.0.1:64215
+1666512883193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofileAUpWj4"
+1666512911696	Marionette	INFO	Marionette enabled
+1666512912246	Marionette	INFO	Listening on port 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+Read port: 64245
+[Parent 7176, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+Read port: 64245
+Read port: 64245
+Read port: 64245
+Read port: 64245
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1666513344325	geckodriver	INFO	Listening on 127.0.0.1:64820
+1666513347095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofiler5I7He"
+1666513354585	Marionette	INFO	Marionette enabled
+1666513354649	Marionette	INFO	Listening on port 64838
+Read port: 64838
+Read port: 64838
+Read port: 64838
+Read port: 64838
+Read port: 64838
+Read port: 64838
+Read port: 64838
+1666513364811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofiler5I7He\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+[Parent 500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666513475476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666513500715	Marionette	INFO	Stopped listening on port 64838
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1666513631375	geckodriver	INFO	Listening on 127.0.0.1:65275
+1666513634301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofileeNa3w0"
+1666513679074	Marionette	INFO	Marionette enabled
+1666513679907	Marionette	INFO	Listening on port 65304
+Read port: 65304
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofileeNa3w0\\search.json.mozlz4", (void 0)))
+1666513812059	geckodriver	INFO	Listening on 127.0.0.1:49201
+1666513815056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofilekSVqDR"
+1666513820381	Marionette	INFO	Marionette enabled
+1666513820388	Marionette	INFO	Listening on port 49213
+Read port: 49213
+1666513824534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofilekSVqDR\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666513875952	Marionette	INFO	Stopped listening on port 49213
+[Parent 9728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666766294201	geckodriver	INFO	Listening on 127.0.0.1:50703
+1666766297299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gogul\\AppData\\Local\\Temp\\rust_mozprofileK4xCGH"
+1666766302402	Marionette	INFO	Marionette enabled
+1666766302446	Marionette	INFO	Listening on port 50717
+Read port: 50717
+Read port: 50717
+Read port: 50717
+1666766305901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
