@@ -1,0 +1,41 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 107.0.5304
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+[32mINFO    [0m selenium:webdriver_listener.py:20 Navigating to https://opensource-demo.orangehrmlive.com/
+[32mINFO    [0m selenium:webdriver_listener.py:23 https://opensource-demo.orangehrmlive.com/ is opened
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //input[@placeholder='Username']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //input[@placeholder='Username'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:75 None value is changing
+[32mINFO    [0m selenium:webdriver_listener.py:78 None was changed
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //input[@placeholder='Password']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //input[@placeholder='Password'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:75 None value is changing
+[32mINFO    [0m selenium:webdriver_listener.py:78 None was changed
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //button
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //button was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //div[1]/div/div[2]/div/div/input[@placeholder='Type for hints...']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //div[1]/div/div[2]/div/div/input[@placeholder='Type for hints...'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:75 None value is changing
+[32mINFO    [0m selenium:webdriver_listener.py:78 None was changed
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //span[contains(text(),'Gogulan ')]
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //span[contains(text(),'Gogulan ')] was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on 
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //button[@type='submit']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //button[@type='submit'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //button/i[@class ='oxd-icon bi-pencil-fill']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //button/i[@class ='oxd-icon bi-pencil-fill'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on oxd-icon bi-pencil-fill
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //div[@class='orangehrm-custom-fields']//i
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //div[@class='orangehrm-custom-fields']//i was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //div[@role='listbox']/div/span
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //div[@role='listbox']/div/span was found
+[32mINFO    [0m selenium:webdriver_listener.py:57 Clicking on 
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //form/div[2]//button[@type='submit']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //form/div[2]//button[@type='submit'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:26 Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+[32mINFO    [0m selenium:webdriver_listener.py:53 Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+[32mINFO    [0m selenium:webdriver_listener.py:81 Driver is quitting
+[32mINFO    [0m selenium:webdriver_listener.py:84 Driver quited

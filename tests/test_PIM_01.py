@@ -20,7 +20,7 @@ class Test_PIM_001:
         login_page.set_user_inputs("Admin", "admin123")
         status = []
         add_emp.click_add()
-        add_emp.set_employee_detail("gogulan", "M", "0215", path, "gogulan", "Gogulan@123")
+        add_emp.set_employee_detail("Gogulan", "M", "0215", path, "gogulan", "Gogulan@123")
         validate = add_emp.set_validate()
         status.append(True) if "Success" in validate else status.append(False)
         add_emp.set_personal_details("0125", "Tn123456", "2026-04-01", "Indian", "Single", "1995-07-01", "Male")
