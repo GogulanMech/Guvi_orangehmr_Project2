@@ -17,11 +17,7 @@ class Test_PIM_001:
         add_emp = AddEmployee(self.driver)
         logger = WebDriverListener()
         logger.logger.info("********Test_PIM_01********")
-        logger.logger.info("********Ending Test_Login_01********")
         path = "D:\\Automation_Program\\phython\\program\\Hybrid_Frame_Work\\Project2\\test-data\\gogul_photo.jpg"
-        logger.logger.info("********Open Orange HMR application********")
-        login_page.open()
-        logger.logger.info("********Login with user info********")
         login_page.set_user_inputs("Admin", "admin123")
         status = []
         add_emp.click_add()

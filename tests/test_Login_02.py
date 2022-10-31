@@ -13,10 +13,9 @@ class Test_login_02:
         login_page = LogInPage(self.driver)
         logger = WebDriverListener()
         logger.logger.info("********Test_Login_02********")
-        logger.logger.info("********Open Orange HMR application********")
-        login_page.open()
         logger.logger.info("********Login with invalid data********")
         login_page.set_user_inputs("Admin", "dmin123")
+        logger.logger.info("********Validating Invalid login********")
         assert True if login_page.capture_msg() else False
         logger.logger.info("********Ending Test_Login_02********")
         self.driver.quit()
