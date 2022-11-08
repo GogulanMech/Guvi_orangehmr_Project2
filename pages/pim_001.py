@@ -9,6 +9,7 @@ class AddEmployee:
 
     @allure.step("Clicking add employee")
     def click_add(self):
+        self.driver.find_element(*AddEmployeeLocators.pimpage_link).click()
         self.driver.find_element(*AddEmployeeLocators.add_btn).click()
 
     @allure.step("Enter New Employee details")

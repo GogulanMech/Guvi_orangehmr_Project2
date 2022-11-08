@@ -376,3 +376,422 @@
 2022-11-01 00:24:01,055: INFO: ********Ending Test_PIM_03********
 2022-11-01 00:24:01,056: INFO: Driver is quitting
 2022-11-01 00:24:03,254: INFO: Driver quited
+2022-11-01 00:52:55,532: INFO: ====== WebDriver manager ======
+2022-11-01 00:52:56,423: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-01 00:52:57,438: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-01 00:53:10,185: INFO: ********Test_PIM_01********
+2022-11-01 00:53:10,185: INFO: ********Open Orange HMR application********
+2022-11-01 00:53:10,186: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-11-01 00:53:13,251: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-11-01 00:53:13,251: INFO: ********Login with user info********
+2022-11-01 00:53:13,251: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-11-01 00:53:14,695: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-11-01 00:53:14,701: INFO: None value is changing
+2022-11-01 00:53:14,983: INFO: None was changed
+2022-11-01 00:53:14,984: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-11-01 00:53:15,011: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-11-01 00:53:15,024: INFO: None value is changing
+2022-11-01 00:53:15,272: INFO: None was changed
+2022-11-01 00:53:15,272: INFO: Searching for element by xpath //button
+2022-11-01 00:53:15,296: INFO: Element by xpath //button was found
+2022-11-01 00:53:15,310: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-11-01 00:53:19,280: INFO: Searching for element by xpath //button[normalize-space()='Add']
+2022-11-01 00:53:19,323: INFO: Element by xpath //button[normalize-space()='Add'] was found
+2022-11-01 00:53:19,357: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary
+2022-11-01 00:53:20,030: INFO: ********Adding new employee details ********
+2022-11-01 00:53:20,031: INFO: Searching for element by xpath //input[@placeholder='First Name']
+2022-11-01 00:53:20,307: INFO: Element by xpath //input[@placeholder='First Name'] was found
+2022-11-01 00:53:20,319: INFO: None value is changing
+2022-11-01 00:53:20,424: INFO: None was changed
+2022-11-01 00:53:20,425: INFO: Searching for element by xpath //input[@placeholder='Last Name']
+2022-11-01 00:53:20,456: INFO: Element by xpath //input[@placeholder='Last Name'] was found
+2022-11-01 00:53:20,464: INFO: None value is changing
+2022-11-01 00:53:20,728: INFO: None was changed
+2022-11-01 00:53:20,728: INFO: Searching for element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:20,758: INFO: Element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:20,767: INFO: None value is changing
+2022-11-01 00:53:20,875: INFO: None was changed
+2022-11-01 00:53:20,875: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 00:53:20,901: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 00:53:20,907: INFO: None value is changing
+2022-11-01 00:53:20,943: INFO: None was changed
+2022-11-01 00:53:20,943: INFO: Searching for element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"]
+2022-11-01 00:53:20,970: INFO: Element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"] was found
+2022-11-01 00:53:20,983: INFO: Clicking on oxd-switch-input oxd-switch-input--active --label-right
+2022-11-01 00:53:21,930: INFO: Searching for element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"]
+2022-11-01 00:53:21,963: INFO: Element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"] was found
+2022-11-01 00:53:21,969: INFO: None value is changing
+2022-11-01 00:53:22,090: INFO: None was changed
+2022-11-01 00:53:22,090: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"]
+2022-11-01 00:53:22,117: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"] was found
+2022-11-01 00:53:22,122: INFO: None value is changing
+2022-11-01 00:53:22,255: INFO: None was changed
+2022-11-01 00:53:22,255: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"]
+2022-11-01 00:53:22,283: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"] was found
+2022-11-01 00:53:22,288: INFO: None value is changing
+2022-11-01 00:53:22,405: INFO: None was changed
+2022-11-01 00:53:22,406: INFO: Searching for element by xpath //button[@type='submit']
+2022-11-01 00:53:22,433: INFO: Element by xpath //button[@type='submit'] was found
+2022-11-01 00:53:22,444: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 00:53:22,494: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:53:23,590: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:53:23,887: INFO: ********Adding new employee personal details********
+2022-11-01 00:53:23,888: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:28,355: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:28,362: INFO: None value is changing
+2022-11-01 00:53:28,468: INFO: None was changed
+2022-11-01 00:53:28,468: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:28,497: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:28,504: INFO: None value is changing
+2022-11-01 00:53:28,646: INFO: None was changed
+2022-11-01 00:53:28,646: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:28,668: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:28,676: INFO: None value is changing
+2022-11-01 00:53:28,762: INFO: None was changed
+2022-11-01 00:53:28,763: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i
+2022-11-01 00:53:28,785: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i was found
+2022-11-01 00:53:28,798: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:53:28,881: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:53:29,048: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:53:30,267: INFO: Clicking on 
+2022-11-01 00:53:30,332: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i
+2022-11-01 00:53:30,363: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i was found
+2022-11-01 00:53:30,377: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:53:30,416: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:53:30,437: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:53:30,487: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[2]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:30,516: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[2]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:30,523: INFO: None value is changing
+2022-11-01 00:53:30,611: INFO: None was changed
+2022-11-01 00:53:30,612: INFO: Searching for element by xpath //label/input[@value='1']
+2022-11-01 00:53:30,636: INFO: Element by xpath //label/input[@value='1'] was found
+2022-11-01 00:53:30,645: INFO: Searching for element by xpath //div[@class='oxd-input-group oxd-input-field-bottom-space']//input[@type='checkbox']
+2022-11-01 00:53:30,669: INFO: Element by xpath //div[@class='oxd-input-group oxd-input-field-bottom-space']//input[@type='checkbox'] was found
+2022-11-01 00:53:30,679: INFO: Searching for element by xpath //form[@class='oxd-form']/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:30,704: INFO: Element by xpath //form[@class='oxd-form']/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:30,713: INFO: None value is changing
+2022-11-01 00:53:30,809: INFO: None was changed
+2022-11-01 00:53:30,810: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:30,835: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:30,843: INFO: None value is changing
+2022-11-01 00:53:30,966: INFO: None was changed
+2022-11-01 00:53:30,966: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:53:30,991: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:53:30,997: INFO: None value is changing
+2022-11-01 00:53:31,120: INFO: None was changed
+2022-11-01 00:53:31,121: INFO: Searching for element by xpath //form/div[5]//button[@type='submit']
+2022-11-01 00:53:31,164: INFO: Element by xpath //form/div[5]//button[@type='submit'] was found
+2022-11-01 00:53:31,179: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:53:31,575: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:53:31,592: INFO: Searching for element by xpath //div[@class='orangehrm-custom-fields']//i
+2022-11-01 00:53:31,618: INFO: Element by xpath //div[@class='orangehrm-custom-fields']//i was found
+2022-11-01 00:53:31,634: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:53:31,686: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:53:31,715: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:53:31,850: INFO: Clicking on 
+2022-11-01 00:53:31,896: INFO: Searching for element by xpath //form/div[2]//button[@type='submit']
+2022-11-01 00:53:31,921: INFO: Element by xpath //form/div[2]//button[@type='submit'] was found
+2022-11-01 00:53:33,942: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:53:33,979: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:53:33,994: INFO: ********Uploading new employee documents********
+2022-11-01 00:53:33,995: INFO: Searching for element by xpath //div[@class='orangehrm-action-header']/button[@type='button']
+2022-11-01 00:53:34,051: INFO: Element by xpath //div[@class='orangehrm-action-header']/button[@type='button'] was found
+2022-11-01 00:53:34,068: INFO: Clicking on oxd-button oxd-button--medium oxd-button--text
+2022-11-01 00:53:34,123: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 00:53:34,153: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 00:53:34,160: INFO: None value is changing
+2022-11-01 00:53:34,199: INFO: None was changed
+2022-11-01 00:53:34,200: INFO: Searching for element by tag name textarea
+2022-11-01 00:53:34,224: INFO: Element by tag name textarea was found
+2022-11-01 00:53:34,230: INFO: None value is changing
+2022-11-01 00:53:34,306: INFO: None was changed
+2022-11-01 00:53:34,306: INFO: Searching for element by xpath //div[@class='oxd-form-actions']/button[2]
+2022-11-01 00:53:34,330: INFO: Element by xpath //div[@class='oxd-form-actions']/button[2] was found
+2022-11-01 00:53:34,343: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 00:53:36,395: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:53:36,420: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:53:36,437: INFO: ********Ending Test_PIM_01********
+2022-11-01 00:53:36,437: INFO: Driver is quitting
+2022-11-01 00:53:38,812: INFO: Driver quited
+2022-11-01 00:54:10,791: INFO: ====== WebDriver manager ======
+2022-11-01 00:54:11,572: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-01 00:54:12,244: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-01 00:54:13,847: INFO: ********Test_PIM_01********
+2022-11-01 00:54:13,847: INFO: ********Open Orange HMR application********
+2022-11-01 00:54:13,848: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-11-01 00:54:18,376: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-11-01 00:54:18,376: INFO: ********Login with user info********
+2022-11-01 00:54:18,376: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-11-01 00:54:19,662: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-11-01 00:54:19,671: INFO: None value is changing
+2022-11-01 00:54:19,743: INFO: None was changed
+2022-11-01 00:54:19,743: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-11-01 00:54:19,772: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-11-01 00:54:19,778: INFO: None value is changing
+2022-11-01 00:54:19,920: INFO: None was changed
+2022-11-01 00:54:19,920: INFO: Searching for element by xpath //button
+2022-11-01 00:54:19,950: INFO: Element by xpath //button was found
+2022-11-01 00:54:19,997: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-11-01 00:54:20,066: INFO: Searching for element by xpath //button[normalize-space()='Add']
+2022-11-01 00:54:23,197: INFO: Element by xpath //button[normalize-space()='Add'] was found
+2022-11-01 00:54:23,232: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary
+2022-11-01 00:54:23,855: INFO: ********Adding new employee details ********
+2022-11-01 00:54:23,855: INFO: Searching for element by xpath //input[@placeholder='First Name']
+2022-11-01 00:54:23,892: INFO: Element by xpath //input[@placeholder='First Name'] was found
+2022-11-01 00:54:23,898: INFO: None value is changing
+2022-11-01 00:54:24,009: INFO: None was changed
+2022-11-01 00:54:24,010: INFO: Searching for element by xpath //input[@placeholder='Last Name']
+2022-11-01 00:54:24,040: INFO: Element by xpath //input[@placeholder='Last Name'] was found
+2022-11-01 00:54:24,046: INFO: None value is changing
+2022-11-01 00:54:24,135: INFO: None was changed
+2022-11-01 00:54:24,136: INFO: Searching for element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:54:24,160: INFO: Element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:54:24,165: INFO: None value is changing
+2022-11-01 00:54:24,239: INFO: None was changed
+2022-11-01 00:54:24,239: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 00:54:24,263: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 00:54:24,270: INFO: None value is changing
+2022-11-01 00:54:24,309: INFO: None was changed
+2022-11-01 00:54:24,309: INFO: Searching for element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"]
+2022-11-01 00:54:24,332: INFO: Element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"] was found
+2022-11-01 00:54:24,349: INFO: Clicking on oxd-switch-input oxd-switch-input--active --label-right
+2022-11-01 00:54:24,725: INFO: Searching for element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"]
+2022-11-01 00:54:24,764: INFO: Element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"] was found
+2022-11-01 00:54:24,775: INFO: None value is changing
+2022-11-01 00:54:24,887: INFO: None was changed
+2022-11-01 00:54:24,887: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"]
+2022-11-01 00:54:24,916: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"] was found
+2022-11-01 00:54:24,923: INFO: None value is changing
+2022-11-01 00:54:25,055: INFO: None was changed
+2022-11-01 00:54:25,055: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"]
+2022-11-01 00:54:25,078: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"] was found
+2022-11-01 00:54:25,083: INFO: None value is changing
+2022-11-01 00:54:25,242: INFO: None was changed
+2022-11-01 00:54:25,242: INFO: Searching for element by xpath //button[@type='submit']
+2022-11-01 00:54:25,266: INFO: Element by xpath //button[@type='submit'] was found
+2022-11-01 00:54:25,280: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 00:54:25,357: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:54:36,344: INFO: Driver is quitting
+2022-11-01 00:54:40,143: INFO: Driver quited
+2022-11-01 00:55:30,977: INFO: ====== WebDriver manager ======
+2022-11-01 00:55:31,542: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-01 00:55:32,877: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-01 00:55:34,611: INFO: ********Test_PIM_01********
+2022-11-01 00:55:34,611: INFO: ********Open Orange HMR application********
+2022-11-01 00:55:34,611: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-11-01 00:55:40,013: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-11-01 00:55:40,013: INFO: ********Login with user info********
+2022-11-01 00:55:40,013: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-11-01 00:55:41,522: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-11-01 00:55:41,532: INFO: None value is changing
+2022-11-01 00:55:41,602: INFO: None was changed
+2022-11-01 00:55:41,603: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-11-01 00:55:41,629: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-11-01 00:55:41,635: INFO: None value is changing
+2022-11-01 00:55:41,757: INFO: None was changed
+2022-11-01 00:55:41,757: INFO: Searching for element by xpath //button
+2022-11-01 00:55:41,790: INFO: Element by xpath //button was found
+2022-11-01 00:55:41,805: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-11-01 00:55:41,891: INFO: Searching for element by xpath //button[normalize-space()='Add']
+2022-11-01 00:55:45,590: INFO: Element by xpath //button[normalize-space()='Add'] was found
+2022-11-01 00:55:45,611: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary
+2022-11-01 00:55:46,352: INFO: ********Adding new employee details ********
+2022-11-01 00:55:46,352: INFO: Searching for element by xpath //input[@placeholder='First Name']
+2022-11-01 00:55:46,395: INFO: Element by xpath //input[@placeholder='First Name'] was found
+2022-11-01 00:55:46,405: INFO: None value is changing
+2022-11-01 00:55:46,544: INFO: None was changed
+2022-11-01 00:55:46,544: INFO: Searching for element by xpath //input[@placeholder='Last Name']
+2022-11-01 00:55:46,615: INFO: Element by xpath //input[@placeholder='Last Name'] was found
+2022-11-01 00:55:46,632: INFO: None value is changing
+2022-11-01 00:55:46,717: INFO: None was changed
+2022-11-01 00:55:46,718: INFO: Searching for element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:46,742: INFO: Element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:46,750: INFO: None value is changing
+2022-11-01 00:55:46,828: INFO: None was changed
+2022-11-01 00:55:46,828: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 00:55:46,852: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 00:55:46,857: INFO: None value is changing
+2022-11-01 00:55:46,897: INFO: None was changed
+2022-11-01 00:55:46,897: INFO: Searching for element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"]
+2022-11-01 00:55:46,925: INFO: Element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"] was found
+2022-11-01 00:55:46,941: INFO: Clicking on oxd-switch-input oxd-switch-input--active --label-right
+2022-11-01 00:55:47,436: INFO: Searching for element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"]
+2022-11-01 00:55:47,473: INFO: Element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"] was found
+2022-11-01 00:55:47,482: INFO: None value is changing
+2022-11-01 00:55:47,665: INFO: None was changed
+2022-11-01 00:55:47,665: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"]
+2022-11-01 00:55:47,694: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"] was found
+2022-11-01 00:55:47,700: INFO: None value is changing
+2022-11-01 00:55:47,828: INFO: None was changed
+2022-11-01 00:55:47,829: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"]
+2022-11-01 00:55:47,853: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"] was found
+2022-11-01 00:55:47,858: INFO: None value is changing
+2022-11-01 00:55:47,978: INFO: None was changed
+2022-11-01 00:55:47,978: INFO: Searching for element by xpath //button[@type='submit']
+2022-11-01 00:55:48,007: INFO: Element by xpath //button[@type='submit'] was found
+2022-11-01 00:55:48,022: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 00:55:48,092: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:55:49,156: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:55:49,181: INFO: ********Adding new employee personal details********
+2022-11-01 00:55:49,181: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:53,779: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:53,788: INFO: None value is changing
+2022-11-01 00:55:53,898: INFO: None was changed
+2022-11-01 00:55:53,898: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:53,925: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:53,933: INFO: None value is changing
+2022-11-01 00:55:54,083: INFO: None was changed
+2022-11-01 00:55:54,083: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:54,109: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:54,115: INFO: None value is changing
+2022-11-01 00:55:54,245: INFO: None was changed
+2022-11-01 00:55:54,245: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i
+2022-11-01 00:55:54,268: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i was found
+2022-11-01 00:55:54,283: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:55:54,505: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:55:54,620: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:55:55,894: INFO: Clicking on 
+2022-11-01 00:55:55,962: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i
+2022-11-01 00:55:55,997: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i was found
+2022-11-01 00:55:56,009: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:55:56,047: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:55:56,069: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:55:56,107: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[2]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:56,145: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[2]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:56,152: INFO: None value is changing
+2022-11-01 00:55:56,240: INFO: None was changed
+2022-11-01 00:55:56,241: INFO: Searching for element by xpath //label/input[@value='1']
+2022-11-01 00:55:56,267: INFO: Element by xpath //label/input[@value='1'] was found
+2022-11-01 00:55:59,286: INFO: Searching for element by xpath //div[@class='oxd-input-group oxd-input-field-bottom-space']//input[@type='checkbox']
+2022-11-01 00:55:59,329: INFO: Element by xpath //div[@class='oxd-input-group oxd-input-field-bottom-space']//input[@type='checkbox'] was found
+2022-11-01 00:55:59,341: INFO: Searching for element by xpath //form[@class='oxd-form']/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:59,372: INFO: Element by xpath //form[@class='oxd-form']/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:59,379: INFO: None value is changing
+2022-11-01 00:55:59,481: INFO: None was changed
+2022-11-01 00:55:59,481: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:59,506: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:59,512: INFO: None value is changing
+2022-11-01 00:55:59,635: INFO: None was changed
+2022-11-01 00:55:59,635: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 00:55:59,658: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[3]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 00:55:59,667: INFO: None value is changing
+2022-11-01 00:55:59,772: INFO: None was changed
+2022-11-01 00:55:59,773: INFO: Searching for element by xpath //form/div[5]//button[@type='submit']
+2022-11-01 00:55:59,803: INFO: Element by xpath //form/div[5]//button[@type='submit'] was found
+2022-11-01 00:55:59,819: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:56:00,602: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:56:00,619: INFO: Searching for element by xpath //div[@class='orangehrm-custom-fields']//i
+2022-11-01 00:56:00,644: INFO: Element by xpath //div[@class='orangehrm-custom-fields']//i was found
+2022-11-01 00:56:00,660: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 00:56:00,710: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 00:56:00,738: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 00:56:00,890: INFO: Clicking on 
+2022-11-01 00:56:00,935: INFO: Searching for element by xpath //form/div[2]//button[@type='submit']
+2022-11-01 00:56:00,968: INFO: Element by xpath //form/div[2]//button[@type='submit'] was found
+2022-11-01 00:56:02,983: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:56:03,081: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:56:03,097: INFO: ********Uploading new employee documents********
+2022-11-01 00:56:03,098: INFO: Searching for element by xpath //div[@class='orangehrm-action-header']/button[@type='button']
+2022-11-01 00:56:03,145: INFO: Element by xpath //div[@class='orangehrm-action-header']/button[@type='button'] was found
+2022-11-01 00:56:03,162: INFO: Clicking on oxd-button oxd-button--medium oxd-button--text
+2022-11-01 00:56:03,219: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 00:56:03,245: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 00:56:03,254: INFO: None value is changing
+2022-11-01 00:56:03,298: INFO: None was changed
+2022-11-01 00:56:03,299: INFO: Searching for element by tag name textarea
+2022-11-01 00:56:03,320: INFO: Element by tag name textarea was found
+2022-11-01 00:56:03,327: INFO: None value is changing
+2022-11-01 00:56:03,407: INFO: None was changed
+2022-11-01 00:56:03,408: INFO: Searching for element by xpath //div[@class='oxd-form-actions']/button[2]
+2022-11-01 00:56:03,430: INFO: Element by xpath //div[@class='oxd-form-actions']/button[2] was found
+2022-11-01 00:56:03,441: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 00:56:05,502: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 00:56:05,536: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 00:56:05,574: INFO: ********Ending Test_PIM_01********
+2022-11-01 00:56:05,575: INFO: Driver is quitting
+2022-11-01 00:56:09,452: INFO: Driver quited
+2022-11-01 01:06:46,246: INFO: ====== WebDriver manager ======
+2022-11-01 01:06:47,796: INFO: Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-01 01:06:48,831: INFO: Driver [C:\Users\gogul\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-01 01:06:59,961: INFO: ********Test_PIM_01********
+2022-11-01 01:07:00,039: INFO: ********Open Orange HMR application********
+2022-11-01 01:07:00,039: INFO: Navigating to https://opensource-demo.orangehrmlive.com/
+2022-11-01 01:07:03,544: INFO: https://opensource-demo.orangehrmlive.com/ is opened
+2022-11-01 01:07:03,544: INFO: ********Login with user info********
+2022-11-01 01:07:03,544: INFO: Searching for element by xpath //input[@placeholder='Username']
+2022-11-01 01:07:04,945: INFO: Element by xpath //input[@placeholder='Username'] was found
+2022-11-01 01:07:04,955: INFO: None value is changing
+2022-11-01 01:07:05,322: INFO: None was changed
+2022-11-01 01:07:05,323: INFO: Searching for element by xpath //input[@placeholder='Password']
+2022-11-01 01:07:05,351: INFO: Element by xpath //input[@placeholder='Password'] was found
+2022-11-01 01:07:05,357: INFO: None value is changing
+2022-11-01 01:07:05,671: INFO: None was changed
+2022-11-01 01:07:05,672: INFO: Searching for element by xpath //button
+2022-11-01 01:07:05,703: INFO: Element by xpath //button was found
+2022-11-01 01:07:05,717: INFO: Clicking on oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2022-11-01 01:07:09,563: INFO: Searching for element by xpath //button[normalize-space()='Add']
+2022-11-01 01:07:09,659: INFO: Element by xpath //button[normalize-space()='Add'] was found
+2022-11-01 01:07:09,696: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary
+2022-11-01 01:07:10,342: INFO: ********Adding new employee details ********
+2022-11-01 01:07:10,342: INFO: Searching for element by xpath //input[@placeholder='First Name']
+2022-11-01 01:07:10,378: INFO: Element by xpath //input[@placeholder='First Name'] was found
+2022-11-01 01:07:10,385: INFO: None value is changing
+2022-11-01 01:07:10,514: INFO: None was changed
+2022-11-01 01:07:10,514: INFO: Searching for element by xpath //input[@placeholder='Last Name']
+2022-11-01 01:07:10,540: INFO: Element by xpath //input[@placeholder='Last Name'] was found
+2022-11-01 01:07:10,548: INFO: None value is changing
+2022-11-01 01:07:10,652: INFO: None was changed
+2022-11-01 01:07:10,652: INFO: Searching for element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active']
+2022-11-01 01:07:10,684: INFO: Element by xpath //div[@class='oxd-grid-2 orangehrm-full-width-grid']//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 01:07:10,689: INFO: None value is changing
+2022-11-01 01:07:10,817: INFO: None was changed
+2022-11-01 01:07:10,817: INFO: Searching for element by xpath //input[@type='file']
+2022-11-01 01:07:10,841: INFO: Element by xpath //input[@type='file'] was found
+2022-11-01 01:07:10,850: INFO: None value is changing
+2022-11-01 01:07:10,931: INFO: None was changed
+2022-11-01 01:07:10,931: INFO: Searching for element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"]
+2022-11-01 01:07:10,955: INFO: Element by xpath //span[@class="oxd-switch-input oxd-switch-input--active --label-right"] was found
+2022-11-01 01:07:10,969: INFO: Clicking on oxd-switch-input oxd-switch-input--active --label-right
+2022-11-01 01:07:11,287: INFO: Searching for element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"]
+2022-11-01 01:07:11,344: INFO: Element by xpath //div[@class="oxd-form-row"]/child::div/descendant::input[@autocomplete="off"] was found
+2022-11-01 01:07:11,350: INFO: None value is changing
+2022-11-01 01:07:11,495: INFO: None was changed
+2022-11-01 01:07:11,495: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"]
+2022-11-01 01:07:11,519: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters user-password-cell"]//input[@type="password"] was found
+2022-11-01 01:07:11,524: INFO: None value is changing
+2022-11-01 01:07:11,656: INFO: None was changed
+2022-11-01 01:07:11,657: INFO: Searching for element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"]
+2022-11-01 01:07:11,683: INFO: Element by xpath //div[@class="oxd-grid-item oxd-grid-item--gutters"]//input[@type="password"] was found
+2022-11-01 01:07:11,689: INFO: None value is changing
+2022-11-01 01:07:11,804: INFO: None was changed
+2022-11-01 01:07:11,804: INFO: Searching for element by xpath //button[@type='submit']
+2022-11-01 01:07:11,833: INFO: Element by xpath //button[@type='submit'] was found
+2022-11-01 01:07:11,845: INFO: Clicking on oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space
+2022-11-01 01:07:11,891: INFO: Searching for element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success']
+2022-11-01 01:07:12,914: INFO: Element by xpath //div[@class='oxd-toast-container oxd-toast-container--bottom']//p[text() = 'Success'] was found
+2022-11-01 01:07:13,061: INFO: ********Adding new employee personal details********
+2022-11-01 01:07:13,061: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 01:07:17,442: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[1]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 01:07:17,451: INFO: None value is changing
+2022-11-01 01:07:17,559: INFO: None was changed
+2022-11-01 01:07:17,559: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active']
+2022-11-01 01:07:17,589: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[1]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 01:07:17,598: INFO: None value is changing
+2022-11-01 01:07:17,746: INFO: None was changed
+2022-11-01 01:07:17,746: INFO: Searching for element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active']
+2022-11-01 01:07:17,771: INFO: Element by xpath //form[@class='oxd-form']/div[2]/div[2]/div[2]//input[@class='oxd-input oxd-input--active'] was found
+2022-11-01 01:07:17,777: INFO: None value is changing
+2022-11-01 01:07:17,864: INFO: None was changed
+2022-11-01 01:07:17,864: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i
+2022-11-01 01:07:17,890: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[1]//i was found
+2022-11-01 01:07:17,901: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 01:07:18,017: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 01:07:18,098: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 01:07:19,334: INFO: Clicking on 
+2022-11-01 01:07:19,402: INFO: Searching for element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i
+2022-11-01 01:07:19,440: INFO: Element by xpath //form[@class='oxd-form']/div[3]/div[1]/div[2]//i was found
+2022-11-01 01:07:19,451: INFO: Clicking on oxd-icon bi-caret-down-fill oxd-select-text--arrow
+2022-11-01 01:07:19,488: INFO: Searching for element by xpath //div[@role='listbox']/div/span
+2022-11-01 01:07:19,511: INFO: Element by xpath //div[@role='listbox']/div/span was found
+2022-11-01 01:07:20,362: INFO: Driver is quitting
+2022-11-01 01:07:24,629: INFO: Driver quited

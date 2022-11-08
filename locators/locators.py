@@ -9,6 +9,7 @@ class LoginPageLocators:
 
 
 class AddEmployeeLocators:
+    pimpage_link = (By.XPATH, '//a[@href="/web/index.php/pim/viewPimModule"]')
     add_btn = (By.XPATH, "//button[normalize-space()='Add']")
     fname_input = (By.XPATH, "//input[@placeholder='First Name']")
     lname_input = (By.XPATH, "//input[@placeholder='Last Name']")
